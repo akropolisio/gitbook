@@ -22,7 +22,7 @@
   * [👓 High-Level View](developer-documentation/vortex/high-level-view.md)
   * [🍭 Contract Design](developer-documentation/vortex/contract-design.md)
   * [🌾 Key Function - harvest](developer-documentation/vortex/key-function-harvest.md)
-  * [🧑💻 Integration guide](developer-documentation/vortex/integration-guide.md)
+  * [🧑💻 🧑💻 Integration guide](developer-documentation/vortex/integration-guide.md)
   * [❗ Risk Management](developer-documentation/vortex/risk-management/README.md)
     * [Position Buffer](developer-documentation/vortex/risk-management/position-buffer.md)
     * [remargin()](developer-documentation/vortex/risk-management/remargin.md)
