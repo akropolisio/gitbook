@@ -20,7 +20,7 @@ You can speed it up by [paying a higher gas fee to the network](https://blog.lev
 {% endhint %}
 
 {% hint style="warning" %}
-AKRO rewards are under vesting & are not auto compounded. To learn more, head here.
+AKRO rewards are under vesting & are not auto compounded. To learn more, head [here](https://www.akropolis.io/vesting).
 {% endhint %}
 
 #### &#x20;<a href="#what-is-vesting" id="what-is-vesting"></a>
