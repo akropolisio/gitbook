@@ -8,6 +8,8 @@
 * [🌀 Vortex](products/vortex/README.md)
   * [💫 Overview](products/vortex/overview.md)
   * [💻 How it works](products/vortex/how-it-works.md)
+  * [🛣 Roadmap](products/vortex/roadmap.md)
+  * [✍ Competitor Comparison](products/vortex/competitor-comparison.md)
 * [🎆 Yearn Integration](https://docs.yearn.finance/getting-started/products/yvaults/overview)
 * [💜 AKRO staking](products/akro-staking.md)
 

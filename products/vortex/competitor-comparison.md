@@ -1,0 +1,10 @@
+# ✍ Competitor Comparison
+
+|                                       |                   Vortex                  |                                             Lemma                                             |                               UXD                              |
+| ------------------------------------- | :---------------------------------------: | :-------------------------------------------------------------------------------------------: | :------------------------------------------------------------: |
+| **Format(s)**                         |                Vault Token                |                              <p>Vault Token</p><p>Stablecoin</p>                              |                           Stablecoin                           |
+| **Network(s)**                        | <p>Arbitrum</p><p>Binance Smart Chain</p> |                                            Arbitrum                                           |                             Solana                             |
+| **Exchange(s)**                       |                   MCDEX                   |                                             MCDEX                                             |                          Mango Markets                         |
+| **Performance** **Fees**              |                    25%                    |                                              30%                                              |                                -                               |
+| _Action during negative Funding Rate_ |             Stablecoin Farming            |                                       Treasury Backstop                                       |                         Insurance Fund                         |
+| _Resulting Risks_                     |          Slow position unwinding          | <p>Treasury depletion</p><p>Slow position unwinding</p><p>Bank run on leveraged positions</p> | <p>Insurance Fund depletion</p><p>Governance Token auction</p> |
