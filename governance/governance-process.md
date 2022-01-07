@@ -29,11 +29,15 @@
 * After the initial discussion is completed & community (including team) agree that it should be officially voted on — team or community members can post it on Snapshot page for voting. And as it’s off-chain voting, it does not require any gas fees.
 * After voting is completed & proposal reaches 10% quorum, we will add it to our development pipeline.
 
+{% hint style="info" %}
+If quorum is not reached, the proposal might be resubmitted for voting after 7 days cooldown.
+{% endhint %}
+
 ### **Who can create or vote on proposals?**
 
 * Only AKRO stakers can create or vote for proposals. This way we ensure that only active users have a say in Akropolis governance.
 * 1 vote equals 1 AKRO staked.
-* There is a minimum of 1M AKRO to create a proposal on Snapshot.
+* There is a minimum of 25M AKRO to create a proposal on Snapshot.
 * There is no minimum for voting.
 
 Please check Snapshot docs for more information about [creating proposals ](https://docs.snapshot.page/guides/create-a-proposal)& [voting on proposals](https://docs.snapshot.page/guides/vote-for-a-proposal).
