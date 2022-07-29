@@ -8,7 +8,7 @@ description: A step-by-step guide
 
 First, **Connect your wallet** using the button at the top right corner.&#x20;
 
-We support multiple types of wallets (the most popular choice is [MetaMask](https://metamask.io)). Make sure that your wallet is connected to the right network (Ethereum mainnet).
+We support multiple types of wallets (the most popular choice is [MetaMask](https://metamask.io/)). Make sure that your wallet is connected to the right network (Ethereum mainnet).
 
 ### Deposit <a href="#if-you-already-have-the-required-token-for-the-vault-that-you-would-like-to-deposit-in" id="if-you-already-have-the-required-token-for-the-vault-that-you-would-like-to-deposit-in"></a>
 

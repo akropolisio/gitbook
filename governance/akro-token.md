@@ -8,7 +8,7 @@
 
 **Decimals** - 18
 
-**Total Token Supply** - 4,000,000,000
+**Total Token Supply** - 5,000,000,000
 
 ## **AKRO Tokenomics** <a href="#akro-tokenomics" id="akro-tokenomics"></a>
 

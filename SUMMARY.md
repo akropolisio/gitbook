@@ -10,9 +10,6 @@
   * [💻 How it works](products/vortex/how-it-works.md)
   * [🛣 Roadmap](products/vortex/roadmap.md)
   * [✍ Competitor Comparison](products/vortex/competitor-comparison.md)
-* [☀ Amun Ra](products/amun-ra/README.md)
-  * [💫 Overview](products/amun-ra/overview.md)
-  * [🛣 Roadmap](products/amun-ra/roadmap.md)
 * [🎆 Yearn Integration](https://docs.yearn.finance/getting-started/products/yvaults/overview)
 * [💜 AKRO staking](products/akro-staking.md)
 
@@ -38,6 +35,7 @@
   * [Vortex](developer-documentation/deployed-contracts/vortex/README.md)
     * [Testnet contracts](developer-documentation/deployed-contracts/vortex/testnet-contracts.md)
 * [🐧 Open Source Development](developer-documentation/open-source-development/README.md)
+  * [Amun Ra](developer-documentation/open-source-development/amun-ra.md)
   * [Pensify](developer-documentation/open-source-development/pensify.md)
   * [C2FC](developer-documentation/open-source-development/c2fc.md)
   * [AkropolisOS](developer-documentation/open-source-development/akropolisos.md)

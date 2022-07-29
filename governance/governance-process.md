@@ -22,7 +22,7 @@
 
 ### **Governance Workflow:**
 
-* All proposals should first be discussed over the [governance forum](https://gov.akropolis.io) and in Discord. That would give all governance participants an ability to understand all pros & cons before voting.
+* All proposals should first be discussed over the [governance forum](https://gov.akropolis.io/) and in Discord. That would give all governance participants an ability to understand all pros & cons before voting.
 * The team will assign time values (i.e. urgent vs non-urgent, pending, etc) to titles based on our discretion.
 * For feature requests please name your proposal AFR+n (i.e. third proposal is named AFR-003).
 * For governance proposals AIP+n (i.e. third proposal is named AIP-003).

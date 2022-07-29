@@ -12,7 +12,7 @@ Keep up-to-date with all Akropolis developments by following our [**Twitter**](h
 
 [Medium](https://medium.com/akropolis)
 
-[Governance forum](https://gov.akropolis.io)
+[Governance forum](https://gov.akropolis.io/)
 
 
 

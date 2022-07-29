@@ -27,4 +27,4 @@ You can find the Akropolis roadmap here:
 
 [Medium](https://medium.com/akropolis)
 
-[Governance forum](https://gov.akropolis.io)
+[Governance forum](https://gov.akropolis.io/)

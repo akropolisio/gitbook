@@ -21,7 +21,7 @@ Accelerate growth without giving up equity if you are an company or unlock new w
 * Simple
 * Acquire more customers
 
-**Built with** [**MakerDAO**](https://makerdao.com) **+** [**0x**](http://0x.org) **+** [**MetaMask**](https://metamask.io)
+**Built with** [**MakerDAO**](https://makerdao.com/) **+** [**0x**](http://0x.org/) **+** [**MetaMask**](https://metamask.io/)
 
 {% embed url="https://www.youtube.com/watch?v=-FPbc-ttMd4c" %}
 
@@ -54,8 +54,8 @@ Considering the transparency of the C2FC itself and related indicators, the risk
 
 ### Use cases <a href="#use-cases" id="use-cases"></a>
 
-* [0x](http://0x.org) relayer or any node holder attracts additional capital to fund growth
-* [Spankchain](https://spankchain.com) operator forward-funds her coding bootcamp
-* [Gitcoin](https://gitcoin.co) **** developers forward-fund their expenses
-* [Decentraland](https://decentraland.org) land owner receives funding against a leased asset
+* [0x](http://0x.org/) relayer or any node holder attracts additional capital to fund growth
+* [Spankchain](https://spankchain.com/) operator forward-funds her coding bootcamp
+* [Gitcoin](https://gitcoin.co/) **** developers forward-fund their expenses
+* [Decentraland](https://decentraland.org/) land owner receives funding against a leased asset
 * Digital entrepreneurs forward-fund ad spend and attract customers

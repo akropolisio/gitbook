@@ -1,4 +1,4 @@
-# 💫 Overview
+# Amun Ra
 
 ## What is Amun Ra?
 

@@ -23,7 +23,7 @@ Sparta is an undercollaterized credit pool based on AkropolisOS, where members o
 
 * [Openzeppelin SDK](https://openzeppelin.com/sdk/)
 * [Openzepplin Contracts](https://openzeppelin.com/contracts/)
-* [Truffle](https://www.trufflesuite.com)
+* [Truffle](https://www.trufflesuite.com/)
 
 ### Diagrams
 
