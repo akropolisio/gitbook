@@ -35,7 +35,7 @@
   * [Vortex](developer-documentation/deployed-contracts/vortex/README.md)
     * [Testnet contracts](developer-documentation/deployed-contracts/vortex/testnet-contracts.md)
 * [🐧 Open Source Development](developer-documentation/open-source-development/README.md)
-  * [Amun Ra](developer-documentation/open-source-development/amun-ra.md)
+  * [Amun Ra](products/amun-ra/README.md)
   * [Pensify](developer-documentation/open-source-development/pensify.md)
   * [C2FC](developer-documentation/open-source-development/c2fc.md)
   * [AkropolisOS](developer-documentation/open-source-development/akropolisos.md)

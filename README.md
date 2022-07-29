@@ -1,6 +1,6 @@
 # 🕶 Introduction
 
-Akropolis’ mission is to give everyone the tools to save, grow and provision for the future safely and without dependence on a central counterparty, or to fall prey to predatory financial practices of multiple intermediaries.&#x20;
+Akropolis’ mission is to give everyone the tools to save, grow and provide for the future safely and without dependence on a central counterparty, or to fall prey to predatory financial practices of multiple intermediaries.&#x20;
 
 Our goal is to create yield-generating products that don’t predominantly rely on inflationary emissions as the main source of yield and that generate returns regardless of the market conditions.
 
