@@ -56,6 +56,6 @@ Considering the transparency of the C2FC itself and related indicators, the risk
 
 * [0x](http://0x.org/) relayer or any node holder attracts additional capital to fund growth
 * [Spankchain](https://spankchain.com/) operator forward-funds her coding bootcamp
-* [Gitcoin](https://gitcoin.co/) **** developers forward-fund their expenses
+* [Gitcoin](https://gitcoin.co/) developers forward-fund their expenses
 * [Decentraland](https://decentraland.org/) land owner receives funding against a leased asset
 * Digital entrepreneurs forward-fund ad spend and attract customers

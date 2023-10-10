@@ -27,7 +27,7 @@
 * For feature requests please name your proposal AFR+n (i.e. third proposal is named AFR-003).
 * For governance proposals AIP+n (i.e. third proposal is named AIP-003).
 * After the initial discussion is completed & community (including team) agree that it should be officially voted on — team or community members can post it on Snapshot page for voting. And as it’s off-chain voting, it does not require any gas fees.
-* After voting is completed & proposal reaches 10% quorum, we will add it to our development pipeline.
+* After voting is completed & proposal reaches 10% quorum (of staked AKRO), we will add it to our development pipeline.
 
 {% hint style="info" %}
 If quorum is not reached, the proposal might be resubmitted for voting after 7 days cooldown.

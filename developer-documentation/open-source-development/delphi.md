@@ -20,4 +20,3 @@ Mechanics here are simple - you just send token to the chosen pool & farm additi
 
 {% embed url="https://github.com/akropolisio/delphi" %}
 
-****

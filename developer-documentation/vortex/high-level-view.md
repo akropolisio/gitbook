@@ -7,7 +7,7 @@ Vortex actively maintains three core positions:
 3. **Position Buffer -** The _safety_ - The Position Buffer is sourced from user deposits and held idle to ensure the ETH Short Contracts are not liquidated.
 
 {% hint style="info" %}
-_For more information, see_ [_Position Buffer_](risk-management/position-buffer.md)__
+_For more information, see_ [_Position Buffer_](risk-management/position-buffer.md)
 {% endhint %}
 
 {% hint style="success" %}

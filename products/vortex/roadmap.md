@@ -1,5 +1,7 @@
 # 🛣 Roadmap
 
+![](<../../.gitbook/assets/Vortex Roadmap\_medium\_03@2x (1).png>)
+
 #### Vortex v1 on Mainnet(s) - Guarded Launch&#x20;
 
 Vortex v1 will launch on both Arbitrum and Binance Smart Chain mainnets in a decentralized way. The launch of Vortex v1 will be determined by the results of the governance proposal and will be subject to additional restrictions as part of the guarded launch.

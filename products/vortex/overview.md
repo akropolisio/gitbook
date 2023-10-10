@@ -30,5 +30,5 @@ Risks involved with using Vortex (v1) include:
 * **Limits** - Deposit limits will be enforced for Vortex. These will scale quickly over time, but when the displayed limit is reached, further deposits will not be possible until the limit is increased.
 
 {% hint style="info" %}
-_Vortex has procedures in place to help mitigate these risks; see_ [_Risk Management_](../../developer-documentation/vortex/risk-management/)__
+_Vortex has procedures in place to help mitigate these risks; see_ [_Risk Management_](../../developer-documentation/vortex/risk-management/)
 {% endhint %}

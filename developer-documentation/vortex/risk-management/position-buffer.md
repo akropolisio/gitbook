@@ -7,5 +7,5 @@ This Buffer is a set size and will be maintained so long as active positions are
 The Buffer can be changed at any time by the Vortex Manager; _remargin()_ must be called after the buffer change.
 
 {% hint style="info" %}
-_For more information, on how this is managed during strategy operation see_ [_remargin_](remargin.md)__
+_For more information, on how this is managed during strategy operation see_ [_remargin_](remargin.md)
 {% endhint %}
