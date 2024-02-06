@@ -22,7 +22,7 @@ AKRO is a governance token that grants holders the right to raise and participat
 
 AKRO token holders can vote on:
 
-* **Innovations**: suggesting new integrations, features, and applications to expand the reach and capabilities of the Akropolis ecosystem.
+* **New Features & Integrations**: suggesting new integrations, features, and applications to expand the reach and capabilities of the Akropolis ecosystem.
 * **Protocol Upgrades**: approving and participating in system upgrades and platform parameter adjustments due to code changes.&#x20;
 * **Financial Strategies**: voting and proposing new asset management strategies and sources of liquidity for the DApp.
 * **DevFund**: determining the distribution of funds within the Akropolis ecosystem, covering areas like DAO treasury, community growth, partnerships, liquidity enhancements, and system integrations.
