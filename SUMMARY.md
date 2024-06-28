@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🕶 Introduction](README.md)
+* [🕶️ Introduction](README.md)
 * [🧠 Using Akropolis](using-akropolis.md)
 
 ## 💸 Products
@@ -8,23 +8,23 @@
 * [🌀 Vortex](products/vortex/README.md)
   * [💫 Overview](products/vortex/overview.md)
   * [💻 How it works](products/vortex/how-it-works.md)
-  * [🛣 Roadmap](products/vortex/roadmap.md)
-  * [✍ Competitor Comparison](products/vortex/competitor-comparison.md)
+  * [🛣️ Roadmap](products/vortex/roadmap.md)
+  * [✍️ Competitor Comparison](products/vortex/competitor-comparison.md)
 * [🎆 Yearn Integration](https://docs.yearn.finance/getting-started/products/yvaults/overview)
 * [💜 AKRO staking](products/akro-staking.md)
 
-## 🏛 Governance
+## 🏛️ Governance
 
 * [🟣 AKRO token](governance/akro-token.md)
 * [📋 Governance process](governance/governance-process.md)
 
-## 🏗 Developer documentation
+## 🏗️ Developer documentation
 
 * [💫 Vortex](developer-documentation/vortex/README.md)
   * [👓 High-Level View](developer-documentation/vortex/high-level-view.md)
   * [🍭 Contract Design](developer-documentation/vortex/contract-design.md)
   * [🌾 Key Function - harvest](developer-documentation/vortex/key-function-harvest.md)
-  * [🧑💻 🧑💻 Integration guide](developer-documentation/vortex/integration-guide.md)
+  * [🧑‍💻 🧑💻 Integration guide](developer-documentation/vortex/integration-guide.md)
   * [❗ Risk Management](developer-documentation/vortex/risk-management/README.md)
     * [Position Buffer](developer-documentation/vortex/risk-management/position-buffer.md)
     * [remargin()](developer-documentation/vortex/risk-management/remargin.md)

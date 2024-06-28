@@ -35,7 +35,7 @@ If quorum is not reached, the proposal might be resubmitted for voting after 7 d
 
 ### **Who can create or vote on proposals?**
 
-* Only AKRO stakers can create or vote for proposals. This way we ensure that only active users have a say in Akropolis governance.
+* Only individual AKRO stakers can create or vote for proposals.  We cannot verify how users staking $AKRO via centralised exchanges would vote on a proposal, so they are excluded from voting. This ensures that only individual stakers using Akropolis platform can participate in the governance process.
 * 1 vote equals 1 AKRO staked.
 * There is a minimum of 25M AKRO to create a proposal on Snapshot.
 * There is no minimum for voting.
